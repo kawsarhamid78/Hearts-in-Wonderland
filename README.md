@@ -1,6 +1,8 @@
 # Hearts in Wonderland - the girly one
 ## responsive Blogger Template
 
+![preview](https://raw.githubusercontent.com/mynimi/Hearts-in-Wonderland/master/hearts-in-wonderland.png)
+
 Hearts in Wonderland sollte nicht nur feminin sondern auch verspielt werden. Auch wenn ich sonst eher minimalistische Templates schreibe, hab ich es hier vielleicht etwas übertrieben, aber Hearts in Wonderland deckt auf jeden Fall jeden Bedarf an Herchen und Pink. Und bei Ändern des Hintergrunds kann es auch klassisch toll funktionieren
 
 Hearts in Wonderland ist im Moment nicht mit dem Vorlagendesigner kompatibel
