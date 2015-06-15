@@ -19,7 +19,14 @@
         <link href='//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.css' rel='stylesheet'/>
 
         <b:skin><![CDATA[*/
+        -----------------------------------------------
+        Blogger Template Style
+        Name:     Hearts in Wonderland
+        Designer: Myriam Frisano
+        URL:      http://halfapx.com
+        ----------------------------------------------- */
         ]]></b:skin>
+
         <b:template-skin><![CDATA[
         body{
             background: url(http://colourlovers.com.s3.amazonaws.com/images/patterns/3948/3948002.png?1382819655) repeat fixed ;
